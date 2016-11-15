@@ -1,4 +1,4 @@
-springDataExample
+springBasicExample
 =================
 
 A Basic Spring Example
